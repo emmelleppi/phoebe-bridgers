@@ -25,7 +25,7 @@ export const FONT_PROPS = {
   "material-fog": false,
   textAlign: "center",
   font:
-    "http://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCw.woff",
+    "https://fonts.gstatic.com/s/cinzel/v10/8vIU7ww63mVu7gtR-kwKxNvkNOjw-tbnfY3lCw.woff",
 };
 
 export function mapColorToPalette(red, green, blue) {
