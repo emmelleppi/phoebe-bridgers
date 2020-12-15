@@ -9,13 +9,6 @@ import React, {
 import ReactDOM from "react-dom";
 import * as THREE from "three";
 import {
-  EffectComposer,
-  DepthOfField,
-  Bloom,
-  Noise,
-  Vignette,
-} from "@react-three/postprocessing";
-import {
   Canvas,
   createPortal,
   useFrame,
